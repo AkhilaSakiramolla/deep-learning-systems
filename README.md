@@ -1,4 +1,4 @@
-ENGR-E 533 Deep Learning Systems assignments
+# ENGR-E 533 Deep Learning Systems assignments
 
 Assignment 1:
 1. MNIST classification using neural networks with PCA and tSNE for dimensionality reducation. Experimented with various hyperparameters 
